@@ -45,5 +45,5 @@ If you are interested in more information about Kameleo, or have encountered an 
 | start_chrome                                      | In this example you can see how you can change the browser started by Kameleo using profile attributes.                                                   |
 | start_with_proxy                                  | Kameleo makes it easy to use any HTTP, SOCKS, or SSH proxy. Check out these few lines of code to see how.                                                 |
 | update_profile                                    | This code is to illustrate how easy is to modify profile attributes after you have created one.                                                           |
-| start_browser_with_additional_web_driver_settings | Check out this example if you want to pass command-line arguments or extra [Selenium](https://www.selenium.dev/) capabilities when starting a browser.    |
+| start_browser_with_additional_web_driver_settings | Check out this example if you want to pass command-line arguments or extra [Selenium](https://www.selefewnium.dev/) capabilities when starting a browser.    |
 | test_proxy                                  | Kameleo makes it easy to use any HTTP, SOCKS, or SSH proxy. Check out these few lines of code how to check a proxy validity.                                                 |
